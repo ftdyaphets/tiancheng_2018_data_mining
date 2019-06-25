@@ -1,5 +1,5 @@
 # tiancheng_2018_data_mining
-2018年甜橙金融杯大数据建模大赛数据集挖掘(scala实现)<br>
+**2018年甜橙金融杯大数据建模大赛数据集挖掘(scala实现)**<br>
 Train_model.scala用决策树训练模型，Predict.scala生成提交结果<br>
 流程：预处理(Preprocess)->特征工程(TransAmtFeature、TimeFeature、ActionTypeFeature->MergeFeatures)->模型训练(Train_model)->预测结果(Predict)<br>
 SimpleEDA对用户行为进行简单探索分析和操作类型字段分析<br>
